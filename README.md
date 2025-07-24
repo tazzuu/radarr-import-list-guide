@@ -29,6 +29,8 @@ Now all the items from your Trakt.tv list will automatically get imported to Rad
 
 NOTE: if there are duplicate entries in your IMDB .csv file it does not matter as long as the "Position" column is unique and sequential numerical for each row; Trakt will de-duplicate your imported movies
 
+To find more IMDB Lists to Export and Import to Trakt, use Google and search for e.g. "site:imdb.com/list batman" since IMDB does not have a way to directly search for Lists from their own webpage
+
 ## Import from a Custom List with mdblist
 
 If you want to import items from a custom made Movie list that can also automatically update itself, then you want https://mdblist.com/
