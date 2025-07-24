@@ -27,6 +27,8 @@ IMDB has blocked the ability to import movies from IMDB Lists into Radarr so thi
  
 Now all the items from your Trakt.tv list will automatically get imported to Radarr. If you selected the options in Radarr, they will automatically get Searched and added to your Download client upon getting added to Radarr.
 
+NOTE: if there are duplicate entries in your IMDB .csv file it does not matter as long as the "Position" column is unique and sequential numerical for each row; Trakt will de-duplicate your imported movies
+
 ## Import from a Custom List with mdblist
 
 If you want to import items from a custom made Movie list that can also automatically update itself, then you want https://mdblist.com/
