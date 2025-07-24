@@ -45,3 +45,5 @@ If only make a mdblist List then in Radarr instead choose the option for Custom 
   - the formal list is at https://trakt.tv/movies/boxoffice however Radarr has special option for "Trakt Popular List" of Type "Top Box Office Movies"
 - regional movies such as Bollywood
   - in mdblist make a Filter for recently released movies in Hindi, Tamil, Telegu, etc., and add it to Trakt
+- all movies with a score of 8.5/10 or above in IMDB (with at least 100 ratings)
+  - make the list in mdblist with the Ratings filters
