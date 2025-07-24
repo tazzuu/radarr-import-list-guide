@@ -38,3 +38,10 @@ If you also make a Trak.tv list, then give mdblist a few minutes to sync with Tr
 If only make a mdblist List then in Radarr instead choose the option for Custom List and give the URL to the List on mdblist.
 
 **IMPORTANT**: do NOT forget to add a Tag for each list so that you can keep track of which items were imported to Radarr via which List
+
+# Radarr List Ideas
+
+- all movies that are currently in theaters via the Trakt Box Office List
+  - the formal list is at https://trakt.tv/movies/boxoffice however Radarr has special option for "Trakt Popular List" of Type "Top Box Office Movies"
+- regional movies such as Bollywood
+  - in mdblist make a Filter for recently released movies in Hindi, Tamil, Telegu, etc., and add it to Trakt
