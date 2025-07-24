@@ -47,3 +47,5 @@ If only make a mdblist List then in Radarr instead choose the option for Custom 
   - in mdblist make a Filter for recently released movies in Hindi, Tamil, Telegu, etc., and add it to Trakt
 - all movies with a score of 8.5/10 or above in IMDB (with at least 100 ratings)
   - make the list in mdblist with the Ratings filters
+- horrible parodies
+  - in mdblist make a filter for "Production Company: The Asylum" to get a list of famous flicks such as "Transmorphers" and "Attack of the Meth Gator"
